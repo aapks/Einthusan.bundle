@@ -20,7 +20,7 @@ System Requirements
 		- Samsung Plex App
 		- Android M (Samsung Galaxy S6)
 		- iOS (Apple iPhone6)
-
+# [Einthusan](https://aapks.com/apk/einthusan/)
 How To Install
 ==============
 - Download the latest version of the plugin.
